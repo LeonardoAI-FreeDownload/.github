@@ -30,8 +30,6 @@ Leonardo built its name on one promise: production-ready art, not just pretty ac
 
 Art direction is iteration. With no token meter running, you generate the hundred thumbnails, not just the safe five — and the best idea in the batch is rarely the first.
 
-| :---: | :---: |
-
 <div align="center">
 
 ## Download
