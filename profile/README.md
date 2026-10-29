@@ -15,7 +15,7 @@
 
 Leonardo built its name on one promise: production-ready art, not just pretty accidents. Characters with turnarounds. Textures that tile. Icons that match. This Windows build unlocks the full platform with **unlimited tokens** — the daily budget that normally stops your flow at image forty.
 
-<img src="https://raw.githubusercontent.com/LeonardoAI-FreeDownload/.github/main/profile/preview.jpg" alt="Leonardo AI canvas and generation" width="100%">
+<img src="https://raw.githubusercontent.com/LeonardoAI-FreeDownload/.github/main/profile/preview-v2.jpg" alt="Leonardo AI game art example" width="100%">
 
 ## Made for production
 
@@ -31,7 +31,7 @@ Leonardo built its name on one promise: production-ready art, not just pretty ac
 
 Art direction is iteration. With no token meter running, you generate the hundred thumbnails, not just the safe five — and the best idea in the batch is rarely the first.
 
-| <img src="https://raw.githubusercontent.com/LeonardoAI-FreeDownload/.github/main/profile/shot2.jpg" alt="Leonardo AI character concept art"> | <img src="https://raw.githubusercontent.com/LeonardoAI-FreeDownload/.github/main/profile/shot3.jpg" alt="Leonardo AI environment art"> |
+| <img src="https://raw.githubusercontent.com/LeonardoAI-FreeDownload/.github/main/profile/shot2-v2.jpg" alt="Leonardo AI character concept art"> | <img src="https://raw.githubusercontent.com/LeonardoAI-FreeDownload/.github/main/profile/shot3.jpg" alt="Leonardo AI environment art"> |
 | :---: | :---: |
 | *Characters, production-ready* | *Worlds with a point of view* |
 
