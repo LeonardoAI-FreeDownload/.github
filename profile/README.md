@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LeonardoAI-FreeDownload/.github/main/profile/banner.jpg" alt="Leonardo AI free download — unlimited tokens, game assets and art" width="100%">
+<img src="https://raw.githubusercontent.com/LeonardoAI-FreeDownload/.github/main/profile/banner-v2.jpg" alt="Leonardo AI free download — unlimited tokens, game assets and art" width="100%">
 
 # Leonardo AI
 
